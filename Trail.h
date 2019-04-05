@@ -32,7 +32,42 @@ int previousweight;
 int type;
 public:
 
-Trail(State in,int w1,int t){
+Trail(State in,int w1,int t,int diff){ 
+    if (diff == 0) set_diff();
+    if (diff == 1) set_linear();
+    s = in;	
+    type = t;
+    if(type == 1)
+        s = calc.P2(calc.Theta(s));
+    if(type == 2)
+        s = calc.P2(s);
+    SVEC p = generate_prop(s);
+    prop.push_back(p);
+    vector<int> index(p.size(),0);
+    indices.push_back(index);
+    previousweight = w1;
+
+    
+}
+std::vector<UINT16> get_lut(UINT16 index){
+	return lut[index];
+}
+
+SVEC generate_prop(State s);
+State gen_next_comb(int rn);
+State extend_one_round(int r);
+VEC extend_two_rounds();
+void update_state(State s){
+    this->s = s;
+    SVEC p = generate_prop(s);
+    prop.clear();
+    prop.push_back(p);
+    indices.clear();
+    vector<int> index(prop[0].size(),0);
+    indices.push_back(index);
+    
+}
+void set_diff(){
 	std::vector<UINT16> temp;
 	temp ={0xc,0xd,0xe,0xf};
 	lut[0x1] = temp;
@@ -79,38 +114,56 @@ Trail(State in,int w1,int t){
 	temp ={0x1,0x5,0x6,0x9,0xa,0xf};
 	lut[0xf] = temp;
 	temp.clear();
-	lut[0] = {};    
-    s = in;	
-    type = t;
-    if(type == 1)
-        s = calc.P2(calc.Theta(s));
-    if(type == 2)
-        s = calc.P2(s);
-    SVEC p = generate_prop(s);
-    prop.push_back(p);
-    vector<int> index(p.size(),0);
-    indices.push_back(index);
-    previousweight = w1;
-
-    
+	lut[0] = {};   
 }
-std::vector<UINT16> get_lut(UINT16 index){
-	return lut[index];
-}
-
-SVEC generate_prop(State s);
-State gen_next_comb(int rn);
-State extend_one_round(int r);
-VEC extend_two_rounds();
-void update_state(State s){
-    this->s = s;
-    SVEC p = generate_prop(s);
-    prop.clear();
-    prop.push_back(p);
-    indices.clear();
-    vector<int> index(prop[0].size(),0);
-    indices.push_back(index);
-    
+void set_linear(){
+	std::vector<UINT16> temp;
+	temp ={1,2,8,3,6,0xa,7,0xb,0xe,0xf};
+	lut[0x1] = temp;
+	temp.clear();
+	temp ={1,2,5,6,9,0xa,0xc,0xb,0xd,0xe};
+	lut[0x2] = temp;
+	temp.clear();
+	temp ={3,9,7,0xd};
+	lut[0x4] = temp;
+	temp.clear();
+	temp ={1,3,5,7};
+	lut[0x8] = temp;
+	temp.clear();
+	temp ={1,4,8,3,5,9,7,0xb,0xd,0xf};
+	lut[0x3] = temp;
+	temp.clear();
+	temp ={2,8,3,5,6,0xa,7,0xb,0xe,0xf};
+	lut[0x5] = temp;
+	temp.clear();
+	temp ={1,2,5,6,9,0xa,0xc,0xd,0xe,0xf};
+	lut[0x6] = temp;
+	temp.clear();
+	temp ={2,4,3,6,9,0xa,7,0xb,0xe,0xf};
+	lut[0x9] = temp;
+	temp.clear();
+	temp ={1,2,5,6,9,0xa,0xc,0xd,0xe,0xf};
+	lut[0xa] = temp;
+	temp.clear();
+	temp ={2,6,0xa,0xe};
+	lut[0xc] = temp;
+	temp.clear();
+	temp ={1,4,8,3,5,9,7,0xb,0xd,0xf};
+	lut[0x7] = temp;
+	temp.clear();
+	temp ={1,2,3,5,9,7,0xb,0xd,0xe,0xf};
+	lut[0xb] = temp;
+	temp.clear();
+	temp ={2,4,3,6,0xa,7,0xb,0xd,0xe,0xf};
+	lut[0xd] = temp;
+	temp.clear();
+	temp ={1,2,5,6,9,0xa,0xc,0xb,0xd,0xe};
+	lut[0xe] = temp;
+	temp.clear();
+	temp ={1,3,5,6,9,0xa,7,0xb,0xd,0xf};
+	lut[0xf] = temp;
+	temp.clear();
+	lut[0] = {};  
 }
 bool is_diff_compatible(State s, State v);
 bool is_linear_compatible(State s, State v);

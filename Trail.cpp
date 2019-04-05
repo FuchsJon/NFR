@@ -52,12 +52,6 @@ State Trail::extend_one_round(int r){
         cond = previousweight + result.get_weight() >= TARGET_WEIGHT;
       if(cond)
         result =0;
-      else{
-        cout <<"R2: " << endl << s << endl;
-        State tmp = calc.Lambda(result);
-        cout << "R3A: "<< endl << tmp << endl;
-        cout << "R3B:" << endl << result << endl;
-      }
       increase_odometer(r);
       if(indices[r][0] == prop[r][0].size())
             prop.pop_back();

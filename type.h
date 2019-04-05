@@ -13,15 +13,15 @@ typedef unsigned long long UINT64;
         Noekeon
 *****/
 
-const static int WEIGHT_BOUND = 8;
+const static int WEIGHT_BOUND = 9;
 
-const static int TARGET_WEIGHT = 24;
+const static int TARGET_WEIGHT = 18;
 
-const static int TYPE = 128;
+const static int TYPE = 64;
 
 const static unsigned int thetaoffset = TYPE/16;
 
-const static int OFFSET[4] = {0,1,5,2};
+static int OFFSET[4] = {0,1,5,2};
 
 
 

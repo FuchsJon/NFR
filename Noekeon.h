@@ -66,7 +66,6 @@ public:
 }
 	State get_state(){ return cache.back();}
     State Lambda(State s);
-    State LambdaR(State s);
 	void push_slice(unsigned int sliceindex,UINT16 val){
 		State temp(val);
 		for(unsigned int i = 0; i < 4; i++){

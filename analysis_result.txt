@@ -1,0 +1,1346 @@
+========================================================================
+Analysis for rotation: 0137 T4=32
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 30
+Bad trails: 0
+Analysis for rotation: 0137 T4=32
+Total numbers of trails found : 8
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0153 T4=32
+Total numbers of trails found : 20
+Differential Trails: 
+Best 4-Round trail found with weight: 39
+Bad trails: 0
+Analysis for rotation: 0153 T4=32
+Total numbers of trails found : 48
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0157 T4=32
+Total numbers of trails found : 13
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 1
+Analysis for rotation: 0157 T4=32
+Total numbers of trails found : 57
+Linear Trails: 
+Best 4-Round trail found with weight: 14
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0162 T4=32
+Total numbers of trails found : 4
+Differential Trails: 
+Best 4-Round trail found with weight: 41
+Bad trails: 0
+Analysis for rotation: 0162 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0164 T4=32
+Total numbers of trails found : 4
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 0
+Analysis for rotation: 0164 T4=32
+Total numbers of trails found : 20
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0173 T4=32
+Total numbers of trails found : 8
+Differential Trails: 
+Best 4-Round trail found with weight: 30
+Bad trails: 1
+Analysis for rotation: 0173 T4=32
+Total numbers of trails found : 18
+Linear Trails: 
+Best 4-Round trail found with weight: 14
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0174 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0174 T4=32
+Total numbers of trails found : 16
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0214 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0214 T4=32
+Total numbers of trails found : 34
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0215 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0215 T4=32
+Total numbers of trails found : 6
+Linear Trails: 
+Best 4-Round trail found with weight: 16
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0237 T4=32
+Total numbers of trails found : 1
+Differential Trails: 
+Best 4-Round trail found with weight: 39
+Bad trails: 0
+Analysis for rotation: 0237 T4=32
+Total numbers of trails found : 8
+Linear Trails: 
+Best 4-Round trail found with weight: 17
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0251 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0251 T4=32
+Total numbers of trails found : 4
+Linear Trails: 
+Best 4-Round trail found with weight: 17
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0254 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0254 T4=32
+Total numbers of trails found : 34
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0261 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0261 T4=32
+Total numbers of trails found : 40
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0265 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0265 T4=32
+Total numbers of trails found : 40
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0267 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0267 T4=32
+Total numbers of trails found : 45
+Linear Trails: 
+Best 4-Round trail found with weight: 16
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0273 T4=32
+Total numbers of trails found : 1
+Differential Trails: 
+Best 4-Round trail found with weight: 39
+Bad trails: 0
+Analysis for rotation: 0273 T4=32
+Total numbers of trails found : 8
+Linear Trails: 
+Best 4-Round trail found with weight: 17
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0274 T4=32
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 1
+Analysis for rotation: 0274 T4=32
+Total numbers of trails found : 36
+Linear Trails: 
+Best 4-Round trail found with weight: 14
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0315 T4=32
+Total numbers of trails found : 20
+Differential Trails: 
+Best 4-Round trail found with weight: 39
+Bad trails: 0
+Analysis for rotation: 0315 T4=32
+Total numbers of trails found : 16
+Linear Trails: 
+Best 4-Round trail found with weight: 18
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0324 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0324 T4=32
+Total numbers of trails found : 28
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0326 T4=32
+Total numbers of trails found : 4
+Differential Trails: 
+Best 4-Round trail found with weight: 41
+Bad trails: 0
+Analysis for rotation: 0326 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0351 T4=32
+Total numbers of trails found : 20
+Differential Trails: 
+Best 4-Round trail found with weight: 39
+Bad trails: 0
+Analysis for rotation: 0351 T4=32
+Total numbers of trails found : 16
+Linear Trails: 
+Best 4-Round trail found with weight: 18
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0354 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0354 T4=32
+Total numbers of trails found : 16
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0371 T4=32
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 0
+Analysis for rotation: 0371 T4=32
+Total numbers of trails found : 46
+Linear Trails: 
+Best 4-Round trail found with weight: 16
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0372 T4=32
+Total numbers of trails found : 3
+Differential Trails: 
+Best 4-Round trail found with weight: 39
+Bad trails: 0
+Analysis for rotation: 0372 T4=32
+Total numbers of trails found : 92
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0375 T4=32
+Total numbers of trails found : 28
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 1
+Analysis for rotation: 0375 T4=32
+Total numbers of trails found : 53
+Linear Trails: 
+Best 4-Round trail found with weight: 14
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0376 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0376 T4=32
+Total numbers of trails found : 92
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0412 T4=32
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 1
+Analysis for rotation: 0412 T4=32
+Total numbers of trails found : 3
+Linear Trails: 
+Best 4-Round trail found with weight: 14
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0416 T4=32
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 0
+Analysis for rotation: 0416 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0417 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0417 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0423 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0423 T4=32
+Total numbers of trails found : 2
+Linear Trails: 
+Best 4-Round trail found with weight: 16
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0425 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0425 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0427 T4=32
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 0
+Analysis for rotation: 0427 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0435 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0435 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0436 T4=32
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 0
+Analysis for rotation: 0436 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0452 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0452 T4=32
+Total numbers of trails found : 1
+Linear Trails: 
+Best 4-Round trail found with weight: 21
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0453 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0453 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0457 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0457 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0461 T4=32
+Total numbers of trails found : 3
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 0
+Analysis for rotation: 0461 T4=32
+Total numbers of trails found : 2
+Linear Trails: 
+Best 4-Round trail found with weight: 16
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0465 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0465 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0467 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0467 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0471 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0471 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0472 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0472 T4=32
+Total numbers of trails found : 1
+Linear Trails: 
+Best 4-Round trail found with weight: 21
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0475 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0475 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0476 T4=32
+Total numbers of trails found : 8
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 1
+Analysis for rotation: 0476 T4=32
+Total numbers of trails found : 10
+Linear Trails: 
+Best 4-Round trail found with weight: 14
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0512 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0512 T4=32
+Total numbers of trails found : 40
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0513 T4=32
+Total numbers of trails found : 28
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 1
+Analysis for rotation: 0513 T4=32
+Total numbers of trails found : 53
+Linear Trails: 
+Best 4-Round trail found with weight: 14
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0517 T4=32
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 0
+Analysis for rotation: 0517 T4=32
+Total numbers of trails found : 46
+Linear Trails: 
+Best 4-Round trail found with weight: 16
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0524 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0524 T4=32
+Total numbers of trails found : 26
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0526 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0526 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0534 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0534 T4=32
+Total numbers of trails found : 16
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0537 T4=32
+Total numbers of trails found : 20
+Differential Trails: 
+Best 4-Round trail found with weight: 39
+Bad trails: 0
+Analysis for rotation: 0537 T4=32
+Total numbers of trails found : 16
+Linear Trails: 
+Best 4-Round trail found with weight: 18
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0562 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0562 T4=32
+Total numbers of trails found : 2
+Linear Trails: 
+Best 4-Round trail found with weight: 16
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0564 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0564 T4=32
+Total numbers of trails found : 24
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0573 T4=32
+Total numbers of trails found : 20
+Differential Trails: 
+Best 4-Round trail found with weight: 39
+Bad trails: 0
+Analysis for rotation: 0573 T4=32
+Total numbers of trails found : 16
+Linear Trails: 
+Best 4-Round trail found with weight: 18
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0574 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0574 T4=32
+Total numbers of trails found : 16
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0614 T4=32
+Total numbers of trails found : 7
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 1
+Analysis for rotation: 0614 T4=32
+Total numbers of trails found : 28
+Linear Trails: 
+Best 4-Round trail found with weight: 14
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0623 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0623 T4=32
+Total numbers of trails found : 40
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0625 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0625 T4=32
+Total numbers of trails found : 45
+Linear Trails: 
+Best 4-Round trail found with weight: 16
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0627 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0627 T4=32
+Total numbers of trails found : 40
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0634 T4=32
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 0
+Analysis for rotation: 0634 T4=32
+Total numbers of trails found : 20
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0637 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0637 T4=32
+Total numbers of trails found : 6
+Linear Trails: 
+Best 4-Round trail found with weight: 16
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0673 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0673 T4=32
+Total numbers of trails found : 4
+Linear Trails: 
+Best 4-Round trail found with weight: 17
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0674 T4=32
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 0
+Analysis for rotation: 0674 T4=32
+Total numbers of trails found : 20
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0714 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0714 T4=32
+Total numbers of trails found : 16
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0715 T4=32
+Total numbers of trails found : 8
+Differential Trails: 
+Best 4-Round trail found with weight: 30
+Bad trails: 1
+Analysis for rotation: 0715 T4=32
+Total numbers of trails found : 18
+Linear Trails: 
+Best 4-Round trail found with weight: 14
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0724 T4=32
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 0
+Analysis for rotation: 0724 T4=32
+Total numbers of trails found : 24
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0726 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0726 T4=32
+Total numbers of trails found : 2
+Linear Trails: 
+Best 4-Round trail found with weight: 16
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0731 T4=32
+Total numbers of trails found : 13
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 1
+Analysis for rotation: 0731 T4=32
+Total numbers of trails found : 57
+Linear Trails: 
+Best 4-Round trail found with weight: 14
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0732 T4=32
+Total numbers of trails found : 3
+Differential Trails: 
+Best 4-Round trail found with weight: 39
+Bad trails: 0
+Analysis for rotation: 0732 T4=32
+Total numbers of trails found : 92
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0735 T4=32
+Total numbers of trails found : 20
+Differential Trails: 
+Best 4-Round trail found with weight: 39
+Bad trails: 0
+Analysis for rotation: 0735 T4=32
+Total numbers of trails found : 48
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0736 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0736 T4=32
+Total numbers of trails found : 40
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0751 T4=32
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 30
+Bad trails: 0
+Analysis for rotation: 0751 T4=32
+Total numbers of trails found : 8
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0754 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0754 T4=32
+Total numbers of trails found : 16
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0762 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0762 T4=32
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0764 T4=32
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0764 T4=32
+Total numbers of trails found : 22
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 1
+========================================================================
+Second Pass : T4 = 34
+========================================================================
+
+========================================================================
+Analysis for rotation: 0762 T4=34
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0762 T4=34
+Total numbers of trails found : 8
+Linear Trails: 
+Best 4-Round trail found with weight: 18
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0754 T4=34
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0754 T4=34
+Total numbers of trails found : 44
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0736 T4=34
+Total numbers of trails found : 52
+Differential Trails: 
+Best 4-Round trail found with weight: 39
+Bad trails: 1
+Analysis for rotation: 0736 T4=34
+Total numbers of trails found : 130
+Linear Trails: 
+Best 4-Round trail found with weight: 19
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0714 T4=34
+Total numbers of trails found : 4
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 1
+Analysis for rotation: 0714 T4=34
+Total numbers of trails found : 36
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0673 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 40
+Bad trails: 0
+Analysis for rotation: 0673 T4=34
+Total numbers of trails found : 20
+Linear Trails: 
+Best 4-Round trail found with weight: 17
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0637 T4=34
+Total numbers of trails found : 29
+Differential Trails: 
+Best 4-Round trail found with weight: 40
+Bad trails: 1
+Analysis for rotation: 0637 T4=34
+Total numbers of trails found : 14
+Linear Trails: 
+Best 4-Round trail found with weight: 16
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0627 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 40
+Bad trails: 0
+Analysis for rotation: 0627 T4=34
+Total numbers of trails found : 147
+Linear Trails: 
+Best 4-Round trail found with weight: 19
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0623 T4=34
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0623 T4=34
+Total numbers of trails found : 144
+Linear Trails: 
+Best 4-Round trail found with weight: 19
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0574 T4=34
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0574 T4=34
+Total numbers of trails found : 44
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0564 T4=34
+Total numbers of trails found : 7
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 0
+Analysis for rotation: 0564 T4=34
+Total numbers of trails found : 66
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0534 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 0
+Analysis for rotation: 0534 T4=34
+Total numbers of trails found : 36
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0526 T4=34
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0526 T4=34
+Total numbers of trails found : 8
+Linear Trails: 
+Best 4-Round trail found with weight: 18
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0512 T4=34
+Total numbers of trails found : 54
+Differential Trails: 
+Best 4-Round trail found with weight: 39
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0475 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 40
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0472 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 0
+Analysis for rotation: 0472 T4=34
+Total numbers of trails found : 49
+Linear Trails: 
+Best 4-Round trail found with weight: 19
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0471 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 0
+Analysis for rotation: 0471 T4=34
+Total numbers of trails found : 8
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0467 T4=34
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0467 T4=34
+Total numbers of trails found : 0
+Linear Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0465 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 0
+Analysis for rotation: 0465 T4=34
+Total numbers of trails found : 16
+Linear Trails: 
+Best 4-Round trail found with weight: 19
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0457 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 40
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0453 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 0
+Analysis for rotation: 0453 T4=34
+Total numbers of trails found : 8
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0452 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 0
+Analysis for rotation: 0452 T4=34
+Total numbers of trails found : 49
+Linear Trails: 
+Best 4-Round trail found with weight: 19
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0436 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 0
+Analysis for rotation: 0436 T4=34
+Total numbers of trails found : 36
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0435 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 0
+Analysis for rotation: 0435 T4=34
+Total numbers of trails found : 8
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0427 T4=34
+Total numbers of trails found : 4
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 0
+Analysis for rotation: 0427 T4=34
+Total numbers of trails found : 4
+Linear Trails: 
+Best 4-Round trail found with weight: 22
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0425 T4=34
+Total numbers of trails found : 4
+Differential Trails: 
+Best 4-Round trail found with weight: 40
+Bad trails: 0
+Analysis for rotation: 0425 T4=34
+Total numbers of trails found : 4
+Linear Trails: 
+Best 4-Round trail found with weight: 22
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0417 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 0
+Analysis for rotation: 0417 T4=34
+Total numbers of trails found : 8
+Linear Trails: 
+Best 4-Round trail found with weight: 20
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0416 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 32
+Bad trails: 0
+Analysis for rotation: 0416 T4=34
+Total numbers of trails found : 16
+Linear Trails: 
+Best 4-Round trail found with weight: 22
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0376 T4=34
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0376 T4=34
+Total numbers of trails found : 308
+Linear Trails: 
+Best 4-Round trail found with weight: 18
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0354 T4=34
+Total numbers of trails found : 4
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0326 T4=34
+Total numbers of trails found : 4
+Differential Trails: 
+Best 4-Round trail found with weight: 41
+Bad trails: 0
+Analysis for rotation: 0326 T4=34
+Total numbers of trails found : 8
+Linear Trails: 
+Best 4-Round trail found with weight: 18
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0324 T4=34
+Total numbers of trails found : 5
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 0
+Analysis for rotation: 0324 T4=34
+Total numbers of trails found : 62
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0265 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 40
+Bad trails: 0
+Analysis for rotation: 0265 T4=34
+Total numbers of trails found : 147
+Linear Trails: 
+Best 4-Round trail found with weight: 19
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0261 T4=34
+Total numbers of trails found : 0
+Differential Trails: 
+Best 4-Round trail found with weight: 64
+Bad trails: 0
+Analysis for rotation: 0261 T4=34
+Total numbers of trails found : 144
+Linear Trails: 
+Best 4-Round trail found with weight: 19
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0254 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 0
+Analysis for rotation: 0254 T4=34
+Total numbers of trails found : 81
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0251 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 40
+Bad trails: 0
+Analysis for rotation: 0251 T4=34
+Total numbers of trails found : 16
+Linear Trails: 
+Best 4-Round trail found with weight: 17
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0215 T4=34
+Total numbers of trails found : 29
+Differential Trails: 
+Best 4-Round trail found with weight: 40
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0214 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 0
+Analysis for rotation: 0214 T4=34
+Total numbers of trails found : 89
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 0
+========================================================================
+========================================================================
+Analysis for rotation: 0174 T4=34
+Total numbers of trails found : 2
+Differential Trails: 
+Best 4-Round trail found with weight: 36
+Bad trails: 0
+Analysis for rotation: 0174 T4=34
+Total numbers of trails found : 36
+Linear Trails: 
+Best 4-Round trail found with weight: 15
+Bad trails: 1
+========================================================================
+========================================================================
+Analysis for rotation: 0162 T4=34
+Total numbers of trails found : 4
+Differential Trails: 
+Best 4-Round trail found with weight: 41
+Bad trails: 0
+Analysis for rotation: 0162 T4=34
+Total numbers of trails found : 8
+Linear Trails: 
+Best 4-Round trail found with weight: 18
+Bad trails: 0
+========================================================================
